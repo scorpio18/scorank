@@ -47,4 +47,4 @@ And now the tool will show you the Alexa rank result.
 
 That's it!
 
-7. <a href="https://scorank.com/tools" rel="noopener"><strong>Check other 40+ Free SEO Tools</strong></a>
+7. <a href="https://scorank.com/tools" rel="noopener"><strong>Check out other 40+ Free SEO Tools</strong></a>
